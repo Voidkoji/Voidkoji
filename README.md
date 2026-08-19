@@ -1,3 +1,4 @@
+![banner](fc.jpg)
 # voidkoji
 
 Learning C, one project at a time.
