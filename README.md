@@ -1,4 +1,4 @@
-<img src="fc.jpg" width="100%" height="200">
+![banner](fc.jpg)
 # voidkoji
 
 Learning C, one project at a time.
