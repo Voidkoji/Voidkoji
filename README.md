@@ -1,6 +1,5 @@
 ![banner](fc.jpg)
 # voidkoji
 
-Learning C, one project at a time.
+*Growth occurs when one goes beyond one’s limit. Realizing that is also a part of the training.*
 
-**Currently:** working through core C fundamentals - conditionals, switch-case, ternary operators.
