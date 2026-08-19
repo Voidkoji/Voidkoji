@@ -1,4 +1,4 @@
-<img src="fc.jpg" width="100%" style="max-height:260px; object-fit:cover;"/>
+<video src="https://github.com/user-attachments/assets/fcb77d9d-d1bc-46d3-a547-de994c08e618" poster="fc.jpg" autoplay loop muted playsinline width="100%" style="max-height:260px; object-fit:cover;"></video>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3d0000,100:8b0000&height=200&section=header&text=VOIDKOJI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=building%20in%20silence&descAlignY=58&descSize=18&descColor=dc143c" width="100%"/>
