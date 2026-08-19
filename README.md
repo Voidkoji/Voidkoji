@@ -1,4 +1,4 @@
-![banner](fc.jpg)
+<img src="fc.jpg" width="100%" style="max-height:260px; object-fit:cover;"/>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3d0000,100:8b0000&height=200&section=header&text=VOIDKOJI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=building%20in%20silence&descAlignY=58&descSize=18&descColor=dc143c" width="100%"/>
